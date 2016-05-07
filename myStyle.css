@@ -142,3 +142,7 @@ body{
 .right{
 	float:right;
 }
+
+.list2 li:hover{
+	text-decoration:underline;
+}
