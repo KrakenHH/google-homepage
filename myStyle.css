@@ -1,0 +1,144 @@
+img{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:200px;
+	width:272px;
+	height:92px;
+}
+
+input{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	height:32px;
+	width:500px;
+	border:1px solid #c3c3c3;
+	cursor
+}
+
+input:hover{
+		
+	border: 1px solid gray;
+
+}
+
+li{
+	display: inline;
+	color: #222;
+	opacity: .75;
+
+}
+
+.navImg1{
+	width:50px;
+	height:50px;
+	position: absolute;
+	top:-202px;
+	right:54px;
+}
+
+ul{
+	position:absolute;
+	top:0px;
+	right:150px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+	color:#222;
+}
+
+a:visited{
+	color:#222;
+}
+
+.gridPic{
+	width:25px;
+	height:25px;
+	position:absolute;
+	top:-188px;
+	right:110px;
+}
+
+body{
+	font-family: arial, sans-serif;
+}
+
+.nameLetter{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:-203px;
+	right:5px;
+}
+
+
+.submitBox1{
+	width:130px;
+	height:32px;
+	display:inline;
+	margin-left:auto;
+	margin-right:auto;
+	position: absolute;
+	left:620px;
+	border:none;
+
+}
+.submitBox2{
+	width:130px;
+	height:32px;
+	display:inline;
+	margin-left:auto;
+	margin-right:auto;
+	position: absolute;
+	left:780px;
+	border:none;
+
+
+}
+
+.submitBox2:hover{
+	color:black;
+	border: 1px solid gray;
+
+
+}
+
+
+.submitBox1:hover{
+	color:black;
+	border: 1px solid gray;
+}
+
+.left{
+	float:left;
+}
+
+.list2{
+
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	height:50px;
+	top:705px;
+	width:1530px;
+	background-color: #f8f8fa;
+	border: .01em solid #e5e6eb;
+
+}
+.list2 li{
+	padding-right:20px;
+	padding-top:18px;
+	padding-left:5px;
+	opacity:.6;
+}
+
+.right{
+	float:right;
+}
